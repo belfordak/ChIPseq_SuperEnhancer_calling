@@ -3,6 +3,7 @@
 ##In dir /base_bams
 
 ###merge bams 
+###(just a crude merge of everything here) 
 
 module load samtools
 
@@ -19,6 +20,8 @@ samtools sort 3TF_plusH3K27.bam > sorted_3TF_plusH3K27.bam
 samtools sort  3TF_only.bam > sorted_3TF_only.bam
 
 ##In dir /Combinations
+
+###this is an important step - here we're selecting only for regions (peaks) that overlap atleast 50%, and pulling down that overlap
 
 module load bedtools
 
