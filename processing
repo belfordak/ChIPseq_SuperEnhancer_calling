@@ -1,4 +1,5 @@
 #This doc is made of examples from individual scripts used for processing and peakcalling in different dirs...definitely could have done this more gracefully...but here it is so I remember what I did...
+#!/bin/bash
 
 ##In dir /base_bams
 
