@@ -10,7 +10,7 @@ Here I analysed ChIP-seq methods in calling high quality super-enhancer regions,
 * Peak calling
 * Combine .bed files for strict (at least 50% overlap) intersecting peaks with different transcription factor and acetylation combinations
 * Combine .bam files to crate custom references
-* Run ROSE (Rank Ordering of Super Enhancers) programme for SE (+TE) quantification
+* Run ROSE (Rank Ordering of Super Enhancers) programme for Super-Enhancer (+Typical-Enhancer) quantification
 * Combine gene lists with fold-change and fpkm expression data (Th1,2,17 cells 0,24,72hr, 2wks + mammary tissue p6,p13,l1) to observe expression of the SE genes
 * Visualise trends and statistics between datasets
 
