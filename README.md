@@ -1,7 +1,7 @@
 # ChIPseq_SuperEnhancer_calling
 Here I analysed ChIP-seq methods in calling high quality super-enhancer regions, with variable acetylation, transcription factors, and peak calling methodologies. The genes associated with these regions (proximity) were mapped to expression data to observe functional significance - via fpkm, fold change, cell type specificity and intron/exon ratio.
 
-
+Valuable for looking into ability and scope of certain TFs of interest to your lab or project in calling SE region + how these SE (and TE) associated genes are behaving in your transcriptome. 
 
 
 ## Workflow:
